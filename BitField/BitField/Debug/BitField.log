@@ -1,0 +1,14 @@
+﻿Построение начато 02.10.2016 20:03:14.
+     1>Проект "C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\BitField\BitField\BitField.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\BitField.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt BitField.cpp
+         BitField.cpp
+     1>c:\users\дмитрий\documents\visual studio 2010\projects\bitfield\bitfield\bitfield.cpp(128): error C2440: =: невозможно преобразовать "unsigned int" в "unsigned int *"
+                 Для преобразования из целого типа в указатель требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+     1>Построение проекта "C:\Users\Дмитрий\Documents\Visual Studio 2010\Projects\BitField\BitField\BitField.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.28
